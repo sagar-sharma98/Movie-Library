@@ -1,0 +1,27 @@
+
+  .sidebar {
+    width: 200px;
+    padding: 20px;
+    background-color: white;
+    border-right: 1px solid #ccc;
+  }
+  
+  .rating,
+  .sort-option {
+    display: flex;
+    align-items: center;
+  }
+  
+  .sorting{
+    margin: 10px 0px
+  }
+  .star {
+    margin-left: 5px;
+    font-size: 20px;
+    color: #ccc;
+  }
+  
+  .black-star {
+    color: #000;
+  }
+  

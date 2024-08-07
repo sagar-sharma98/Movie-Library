@@ -1,0 +1,28 @@
+
+.movie-card {
+    background-color: #fff;
+    border: 1px solid black; 
+    padding: 15px;
+    width: 200px;
+    text-align: center;
+    margin: 10px;
+  }
+  
+  .movie-poster {
+    width: 100%;
+    cursor: pointer;
+  }
+  
+  .movie-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0 5px;
+  }
+  
+  .movie-type,
+  .movie-rating {
+    font-size: 14px;
+    color: #555;
+    margin: 5px 0;
+  }
+  

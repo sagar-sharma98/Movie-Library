@@ -1,0 +1,36 @@
+/* MovieDetail.css */
+.movie-detail-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .movie-detail-id {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 5px;
+  }
+  
+  .movie-detail-poster {
+    height: 350px;
+    width: auto;
+    margin-bottom: 20px;
+   
+  }
+  
+  .movie-detail-title {
+    margin-bottom: 5px;
+  }
+  
+  .movie-detail-year,
+  .movie-detail-type,
+  .movie-detail-rating {
+    font-size: 16px; 
+    margin-bottom: 5px;
+  }
+  

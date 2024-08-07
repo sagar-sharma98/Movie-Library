@@ -1,0 +1,28 @@
+/* Styling for the homepage */
+.homepage {
+    font-family: Arial, sans-serif;
+    height: 100vh;
+  }
+  
+ 
+  .main-content {
+    display: flex;
+    height: calc(100vh - 56px);
+  }
+  
+ 
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding: 20px;
+    flex: 1; 
+  }
+  
+  .card {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
