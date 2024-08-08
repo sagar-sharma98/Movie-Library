@@ -8,18 +8,19 @@
     margin: 10px;
   }
   
-  .movie-poster {
+  .movie-image {
     width: 100%;
     cursor: pointer;
   }
   
-  .movie-title {
+  .movie-name{
     font-size: 18px;
     font-weight: bold;
     margin: 10px 0 5px;
   }
   
   .movie-type,
+  .movie-year,
   .movie-rating {
     font-size: 14px;
     color: #555;
